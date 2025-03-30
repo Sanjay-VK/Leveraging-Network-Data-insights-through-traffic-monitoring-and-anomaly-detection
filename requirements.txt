@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
+scikit-learn
+pyspark
+powerbiclient
+jupyter
+ipython
+wireshark
+pcapy
+networkx
