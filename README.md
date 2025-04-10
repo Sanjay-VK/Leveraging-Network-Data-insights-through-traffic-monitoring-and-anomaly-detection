@@ -6,9 +6,13 @@ from Wireshark and Cisco Packet Tracer, applying deep learning models for predic
 Key Features
 
 Network Traffic Analysis – Captures and processes real-time network data using Wireshark, PCAP tools, and Cisco Packet Tracer.
+![traffic input analysis](https://github.com/user-attachments/assets/aedd8858-2b28-4d23-88aa-1f7eb5bf542c)
+
 
 
 Data Preprocessing & Feature Engineering – Cleans and transforms network logs using NumPy and Pandas for structured analysis.
+![data cleaning process](https://github.com/user-attachments/assets/e161fb69-24b9-430e-a65b-3908ae0d0170)
+
 
 
 Anomaly Detection with LSTM – Implements TensorFlow and Keras to train an LSTM-based model for identifying unusual network patterns.
